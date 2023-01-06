@@ -22,4 +22,4 @@ It then initializes all needed initializations such as input / output pins and Q
 ## Runtime
 Based on the previous battle mode we have set up. It will then either run StrategyOne, StrategyTwo, StrategyThree, or StrategyFour.
 
-If during runtime it's given the command to power off, it will not run the selected strategy and remain stationary.
+If during runtime it's given the command to power off, it will not run the selected strategy and remain stationary indefinitely.
