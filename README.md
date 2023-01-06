@@ -11,7 +11,7 @@ For our robot, we have used various electronics and hardware including:
 * 5 x Digital Infrared Sensor
 * 2 x A58SW31ZY Motors
 * 1 x Bluetooth Module HC-05
-* 1 x 4 cel lithium polymer battery 
+* 1 x 4 cell lithium polymer battery 40c 
 
 # Procedure and how it works
 
